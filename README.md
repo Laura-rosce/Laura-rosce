@@ -18,7 +18,7 @@
  
 <div> 
   <a href="https://instagram.com/laura_rosce" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.beecrowd.com.br/" target="_blank"><img height="30" width="90" src="https://user-images.githubusercontent.com/93408918/162590286-3b46daf1-0d3a-401e-a2e3-6c368df624b6.png" target="_blank"></a>
+  <a href="https://www.beecrowd.com.br/" target="_blank"><img height="30" width="100" src="https://user-images.githubusercontent.com/93408918/162590286-3b46daf1-0d3a-401e-a2e3-6c368df624b6.png" target="_blank"></a>
  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:laura.roscelle@escolar.ifrn.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/laura-roscelle-38b767234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
