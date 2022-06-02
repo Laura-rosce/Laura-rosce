@@ -1,4 +1,4 @@
-## OIEE, SEJA BEM-VIND@ AO MEU PERFIL! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="5px"></h1> 
+## OIEE, SEJA BEM-VIND@ AO MEU PERFIL! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="1px"></h1> 
 
 <div align="center">
   <a href="https://github.com/Laura-rosce">
