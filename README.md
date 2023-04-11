@@ -1,6 +1,7 @@
-## OIEE, SEJA BEM-VIND@ AO MEU PERFIL!
-<img height="40" width="40" src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" alt="waving hand">
-<img height="40" width="40" src="https://em-content.zobj.net/source/microsoft-teams/337/beaming-face-with-smiling-eyes_1f601.png" alt="smiling emoji"/>
+<h1 align="left"> Seja Bem-vindo ao meu Repositório! 
+  <img height="40" width="40" src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" alt="waving hand">
+  <img height="40" width="40" src="https://em-content.zobj.net/source/microsoft-teams/337/beaming-face-with-smiling-eyes_1f601.png" alt="smiling emoji"/>
+</h1>
 
 <div align="center">
   <a href="https://github.com/Laura-rosce">
@@ -8,7 +9,8 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laura-rosce&layout=compact&langs_count=7&theme=cobalt">
     
 </div>
-<div style="display: inline_block"><br> 
+<div style="display: inline_block"><br>
+  # Linguagens que mais uso: 
   <img align="center" alt="Laura-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Laura-Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/941162449460158514/962422439445422160/63624974170263.5c24e5846da61.jpg">
