@@ -7,12 +7,28 @@
   <a href="https://github.com/Laura-rosce">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Laura-rosce&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laura-rosce&layout=compact&langs_count=7&theme=cobalt">
+
+<div style="display: inline_block" align="center"><br>
+  <h3>Linguagens que mais uso:</h3>
+  <abbr title="Python">
+     <img align="center" alt="Laura-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  </abbr>
+  <abbr title="CPP">
+   <img align="center" alt="Laura-Cpp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  </abbr>
+    <abbr title="JavaScript">
+    <img align="center" alt="James-js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  </abbr>
+  <abbr title="Python3">
+    <img align="center" alt="James-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  </abbr>
+</div>
     
 </div>
 <div style="display: inline_block"><br>
   # Linguagens que mais uso: 
-  <img align="center" alt="Laura-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Laura-Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Laura-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Laura-Cpp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/941162449460158514/962422439445422160/63624974170263.5c24e5846da61.jpg">
 </div>
   
