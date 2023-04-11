@@ -22,7 +22,7 @@
 </div>
  
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/941162449460158514/962422439445422160/63624974170263.5c24e5846da61.jpg">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/941162449460158514/962422439445422160/63624974170263.5c24e5846da61.jpg">
 </div>
 
   
