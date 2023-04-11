@@ -1,9 +1,11 @@
-## OIEE, SEJA BEM-VIND@ AO MEU PERFIL! 
+## OIEE, SEJA BEM-VIND@ AO MEU PERFIL!
+<img height="40" width="40" src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" alt="waving hand">
+<img height="40" width="40" src="https://em-content.zobj.net/source/microsoft-teams/337/beaming-face-with-smiling-eyes_1f601.png" alt="smiling emoji"/>
 
 <div align="center">
   <a href="https://github.com/Laura-rosce">
-  <img height="40" width="40" src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" alt="waving hand">
-  <img height="40" width="40" src="https://em-content.zobj.net/source/microsoft-teams/337/beaming-face-with-smiling-eyes_1f601.png" alt="smiling emoji"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Laura-rosce&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laura-rosce&layout=compact&langs_count=7&theme=cobalt">
     
 </div>
 <div style="display: inline_block"><br> 
