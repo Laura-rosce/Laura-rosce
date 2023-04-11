@@ -7,6 +7,11 @@
   <a href="https://github.com/Laura-rosce">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Laura-rosce&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laura-rosce&layout=compact&langs_count=7&theme=cobalt">
+    
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/941162449460158514/962422439445422160/63624974170263.5c24e5846da61.jpg">
+</div>
 
 <div style="display: inline_block" align="center"><br>
   <h3>Linguagens que mais uso:</h3>
@@ -18,10 +23,7 @@
   </abbr>
 </div>
     
-</div>
-<div style="display: inline_block"><br>
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/941162449460158514/962422439445422160/63624974170263.5c24e5846da61.jpg">
-</div>
+
   
   </div>
   
