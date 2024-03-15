@@ -5,8 +5,8 @@
 
 <div align="center">
   <a href="https://github.com/Laura-rosce">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Laura-rosce&show_icons=true&theme=darkpurple&include_all_commits=true&count_private=true">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laura-rosce&layout=compact&langs_count=7&theme=darkpurple">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Laura-rosce&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laura-rosce&layout=compact&langs_count=7&theme=cobalt">
     
 </div>
 
@@ -19,8 +19,6 @@
   <a href = "mailto:laura.roscelle@escolar.ifrn.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/laura-roscelle-38b767234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-## 
 
 <div style="display: inline_block" align="center"><br>
   <h3>Linguagens que mais uso:</h3>
@@ -36,9 +34,11 @@
   <abbr title="CSS">
    <img align="center" alt="Laura-css" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
   </abbr>
+  <abbr title="JS">
+   <img align="center" alt="Laura-js" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  </abbr>
 </div>
 
-  </div>
   
  
 
