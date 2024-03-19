@@ -1,4 +1,4 @@
-<h1 align="left"> Seja Bem-vindo ao meu Repositório! 
+<h1 align="left"> Seja Bem-vindo(a) ao meu Repositório! 
   <img height="40" width="40" src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" alt="waving hand">
   <img height="40" width="40" src="https://em-content.zobj.net/source/microsoft-teams/337/beaming-face-with-smiling-eyes_1f601.png" alt="smiling emoji"/>
 </h1>
