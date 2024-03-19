@@ -3,6 +3,8 @@
   <img height="40" width="40" src="https://em-content.zobj.net/source/microsoft-teams/337/beaming-face-with-smiling-eyes_1f601.png" alt="smiling emoji"/>
 </h1>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=800080&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Laura+Roscelle...;I'm+from+Brazil...;I'm+student+of+computing...;Be+Welcome!+<3)](https://git.io/typing-svg)
+
 <div align="center">
   <a href="https://github.com/Laura-rosce">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Laura-rosce&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true">
